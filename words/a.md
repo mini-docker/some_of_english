@@ -244,16 +244,236 @@ af+ford
 n.机构
 agent n.代理人
 ```
+### aggressive
+```
+a.挑衅的，好斗的
+ag+gress+ive
+grade 走、级
+progress n.进步
 
+alarm clock 闹钟
+army 军队
+```
+### album
+```
+n.纪念册、相册、集邮册
+```
+### alcohol
+```
+n.酒精
+```
+### alert
+```
+a.机警的 警觉的
+v.提醒 警觉
+```
+### alter
+```
+v.改变
 
+change v.
+```
+### altitude
+```
+n.海拔、高度
+alto n.男高音
+alt+itude(n.)
+attitude n.态度
+```
+### ambitious
+```
+a.有雄心的
+ambition + ous(a.)
+n.野心
+```
+### analyze
+```
+v.分析
+analysis n.
+analytical n 分析师
+```
+### ancient
+```
+a.古代的
+anci+ent(a.)
+ante-=anti-前面的
+```
+### announce
+```
+vt.宣布，声称
+an+noun+ce n.名词，说
+pronounce v.发言
+```
+### annual
+```
+a.每年的
+anni 年
+anniversary n.周年
 
+universe
+converse
+vers=turn
+```
+### anticipate
+```
+v.期望，预期
+anti+cip+ate(v.)
+ante+cap(头脑)
+captain n.队长 首领
+```
+### antique
+```
+n.古玩，古董
+anti+que
+capital 首府
+```
+### apartment
+```
+n.公寓
+a+part+ment
+flat n.公寓 a.平的
+inflation 通货膨胀
+deflation 通货紧缩
+```
+### appeal
+```
+n./v. 吸引，呼吁
+appealing a.吸引人的
+```
+### appearance
+```
+n. 外表;出现
+appear + ance (n.)
+v. 出现
+emerge v. 出现
+```
+### appetite
+```
+n.欲望；胃口
+ap+pet+ite 
+追求
+compete v.竞争
+```
+### applicant
+```
+n.申请人
+apply+ic+ant
+申请
+assistant 助理
+apply for 申请
+apply to 适用于、应用于
+```
+### appoint
+```
+v. 任命,委派,约定
+appointment n.约会
+```
+### appreciate
+```
+v.感激；欣赏
+```
+### appreciation
+```
+n.评价；感激
+ap+preci+ation
+```
+### approach
+```
+v.靠近 n.接近，方法
+app+road
+reach v.到达
+method n.方法
+```
+### approve
+```
+v.赞成 批准
+ap+prove 证明
+proof n.证据
+approval n.批准
+```
+### approximately
+```
+adv.大约
+approx+im+ate+ly
 
-
-
-
-
-
-
+about roughly
+```
+### architect
+```
+n.建筑师
+architecture n.建筑师
+arc n.弧度
+arch n.拱门
+```
+### archive
+```
+n.档案馆 档案文件
+arch+ive
+hive n.蜂房
+```
+### arrange
+```
+v.安排
+ar+range
+```
+### 逮捕
+```
+v.逮捕
+ar+rest 休息
+```
+### ashamed
+```
+a.惭愧的 难为情的
+a+shame+ed 羞愧，羞耻
+```
+### assemble
+```
+v.组装，集合
+assembley n.装配
+```
+### asset
+```
+n.有价值的人、资产
+property n.可能的
+```
+### assign
+```
+v.分配，布置
+as+sign 签字
+signal n.信号
+assignment 赋值/作业 
+task 作业n.
+```
+### associate
+```
+v.交往
+society n.社会
+sociable a.好交际的
+```
+### assume
+```
+v.假定，认为
+presume v.假定
+```
+### assumption
+```
+n.假定，假设
+describe v.表达，描述
+description n.表达
+```
+### astonish
+```
+v.使惊讶，使大为吃惊
+```
+### average
+```
+a.平常的
+```
+### aviation
+```
+n.航空
+aviator n.飞行员 pilot n.飞行员
+```
 
 
 
