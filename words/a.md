@@ -160,9 +160,9 @@ administer v.管理
 ad+ministra+tive 管理的
 
 -ive (a.)
-attractive
-negative
-positive 
+attractive 有吸引力的
+negative 消极的，否定的，拒绝的
+positive 积极的
 ```
 ### admire
 ```
@@ -468,6 +468,7 @@ v.使惊讶，使大为吃惊
 ### average
 ```
 a.平常的
+平均的
 ```
 ### aviation
 ```
@@ -477,22 +478,55 @@ aviator n.飞行员 pilot n.飞行员
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### assumption
+```
+n.假定，假设
+describe v.描述
+description n.描述
+```
+### atmosphere
+```
+n.气氛，大气，空气
+ATM+o+shere 球
+biosphere n.生物圈
+air n.空气
+```
+### attempt
+```
+n/v.尝试，试图
+at+tempt 诱惑
+temporary a.临时的
+```
+### automatic
+```
+a.自动的
+auto+mate+ic
+auto = self
+automate v.自动化
+```
+### available
+```
+a.可利用的；可获得的
+avail+able
+availability n.
+accessibility n.
+```
+### avoid
+```
+v.避免
+a+void 空的
+prevent...from 防止
+```
+### award
+```
+vt.授予；判给 n.奖金
+reward v.奖励 n.报酬
+```
+### awareness
+```
+n.意识
+aware+ness
+conscious 有意识的
+subconscious 潜意识
+illness 疾病
+```
